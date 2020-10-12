@@ -1,1 +1,1 @@
-# M-stica
+# mistica
